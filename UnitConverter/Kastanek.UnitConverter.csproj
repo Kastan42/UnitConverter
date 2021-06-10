@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>A simple library for converting units.</Description>
+    <Copyright>Petr Kaštánek</Copyright>
+  </PropertyGroup>
+
+</Project>

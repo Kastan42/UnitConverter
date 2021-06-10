@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kastanek.UnitConverter", "UnitConverter\Kastanek.UnitConverter.csproj", "{4A58884B-AB7D-45D3-9406-55C71641C5F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kastanek.UnitConverter.Tests", "UnitConverter.Tests\Kastanek.UnitConverter.Tests.csproj", "{9914768F-9DD5-4F58-AB18-FC4106474F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A58884B-AB7D-45D3-9406-55C71641C5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A58884B-AB7D-45D3-9406-55C71641C5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A58884B-AB7D-45D3-9406-55C71641C5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A58884B-AB7D-45D3-9406-55C71641C5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9914768F-9DD5-4F58-AB18-FC4106474F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914768F-9DD5-4F58-AB18-FC4106474F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914768F-9DD5-4F58-AB18-FC4106474F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914768F-9DD5-4F58-AB18-FC4106474F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A04EC7-73C5-4075-8199-67D9151F8B49}
+	EndGlobalSection
+EndGlobal
